@@ -1,0 +1,14 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="1D Array 1.0/1D Array 1.0.vcxproj" />
+  <Project Path="1D Array 1.0/One-Dimensional Array.vcxproj" Id="dcb40c1f-00bc-45f9-9239-b0d5a28813f6" />
+  <Project Path="1D Array 1.1/1D Array 1.1.vcxproj" Id="c125b243-75f0-4960-ac80-6681baf1628b" />
+  <Project Path="1D Array 1.2/1D Array 1.2.vcxproj" Id="b290dd4d-a6ff-4bdc-9cf9-9fb41743fd92" />
+  <Project Path="1D Array 1.3/1D Array 1.3.vcxproj" Id="d1303d69-ea1f-4659-b901-4ecd0a908963" />
+  <Project Path="1D Array 1.4/1D Array 1.4.vcxproj" Id="8eaf21e0-c5a9-413e-bc5d-d9737cd76c26" />
+  <Project Path="1D Array 1.5/1D Array 1.5.vcxproj" Id="f381af41-6ca3-4fd2-9a04-0ee3c8340de8" />
+  <Project Path="cin.fail/cin.fail.vcxproj" Id="fa40a6f5-092a-4c06-b2bd-ac8c17e84eef" />
+</Solution>
