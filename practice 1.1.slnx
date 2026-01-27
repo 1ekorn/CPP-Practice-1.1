@@ -3,12 +3,15 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="1D Array 1.0/1D Array 1.0.vcxproj" />
-  <Project Path="1D Array 1.0/One-Dimensional Array.vcxproj" Id="dcb40c1f-00bc-45f9-9239-b0d5a28813f6" />
-  <Project Path="1D Array 1.1/1D Array 1.1.vcxproj" Id="c125b243-75f0-4960-ac80-6681baf1628b" />
+  <Project Path="1D Array 1.0/1D Array 1.0.vcxproj" Id="49b02e17-bfe4-480a-bd8d-64f862ae843d" />
   <Project Path="1D Array 1.2/1D Array 1.2.vcxproj" Id="b290dd4d-a6ff-4bdc-9cf9-9fb41743fd92" />
   <Project Path="1D Array 1.3/1D Array 1.3.vcxproj" Id="d1303d69-ea1f-4659-b901-4ecd0a908963" />
   <Project Path="1D Array 1.4/1D Array 1.4.vcxproj" Id="8eaf21e0-c5a9-413e-bc5d-d9737cd76c26" />
   <Project Path="1D Array 1.5/1D Array 1.5.vcxproj" Id="f381af41-6ca3-4fd2-9a04-0ee3c8340de8" />
   <Project Path="cin.fail/cin.fail.vcxproj" Id="fa40a6f5-092a-4c06-b2bd-ac8c17e84eef" />
+  <Project Path="MultiD Array 1.0/MultiD Array 1.0.vcxproj" Id="9d265cac-8b2e-4e6b-92d3-dcd3b1272674" />
+  <Project Path="MultiD Array 1.1/MultiD Array 1.1.vcxproj" Id="d6637ae2-974a-4a67-a02c-bb3b15b01981" />
+  <Project Path="MultiD Array 1.2/MultiD Array 1.2.vcxproj" Id="664ed25c-74ba-455a-908c-8289652e67bc" />
+  <Project Path="MultiD Array 1.3/MultiD Array 1.3.vcxproj" Id="8eb783c1-5f7a-4578-ac44-f2769db7502d" />
+  <Project Path="MultiD Array 1.4/MultiD Array 1.4.vcxproj" Id="82bf3d85-faba-4467-9ede-b97a778b677b" />
 </Solution>
