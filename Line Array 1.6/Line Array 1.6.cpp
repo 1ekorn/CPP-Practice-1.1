@@ -15,8 +15,10 @@ int main()
 
 	for (int i = 0; i < textSize; i++)
 	{
-		if (strchr(".!?", string[i]))
-			i++; continue;
+		if (strchr(".!?", string[i])) {
+			i++; 
+			continue;
+		}
 		if (string[i] == ' ')
 			string[i + 1] = static_cast<int>(string[i + 1]) - 32;
 	}
