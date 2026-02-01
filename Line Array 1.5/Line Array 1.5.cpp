@@ -13,11 +13,11 @@ int main()
 	for (int i = 0; i < STRING_SIZE; i++)
 	{
 		if (firstString[i] != secondString[i]) {
-			std::cout << "Lines are not the same!\n";
+			std::cout << "Lines are not identical!\n";
 			break;
 		}
 		else{
-			std::cout << "Lines are the same!\n";
+			std::cout << "Lines are identical!\n";
 			break;
 		}
 	}
