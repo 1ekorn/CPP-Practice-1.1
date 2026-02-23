@@ -11,6 +11,7 @@
   <Project Path="cin.fail/cin.fail.vcxproj" Id="fa40a6f5-092a-4c06-b2bd-ac8c17e84eef" />
   <Project Path="Default Parameters/Default Parameters.vcxproj" Id="7b7c8ea4-b2f8-4479-a790-85868643a4ce" />
   <Project Path="Function Overload/Function Overload.vcxproj" Id="a2febf8f-6598-4ca4-8ad5-a0124a01f4a7" />
+  <Project Path="Function Template/Function Template.vcxproj" Id="49cd5b64-e584-465a-8ab7-35bfbd4e445d" />
   <Project Path="Functions 1.0/Functions 1.0.vcxproj" Id="2be42694-12bd-4b2f-91ad-d50bc0b7cbcd" />
   <Project Path="Functions 1.1/Functions 1.1.vcxproj" Id="43fc4712-72d8-4ee8-a2ea-e4ed0b4beaba" />
   <Project Path="Functions 1.2/Functions 1.2.vcxproj" Id="bd58a554-c4ed-4219-b8df-d2d7a01bea79" />
