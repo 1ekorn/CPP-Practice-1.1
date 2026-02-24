@@ -19,8 +19,8 @@ int main()
 	const int SIZE = 20;
 	int arr[SIZE];
 
-	showValue(15);
-	showValue('f');
+	showValue(getRandNum());
+	showValue(static_cast<char>(getRandNum()));
 	showValue(15.5);
 
 	std::cout << '\n';
